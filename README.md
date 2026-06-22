@@ -12,3 +12,6 @@ Este es un repositorio DEMO para la practica Ya se realizaron los cambios necesa
 
 Aqui estamos haciendo una prueba modificando el desktop
 
+
+AQui lo modifico en linea para la prueba de Practica
+
